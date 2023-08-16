@@ -1,0 +1,5 @@
+{
+    "deposit":["mint", "deposit", "lendToWarpVault", "stake", "lendto", "add_liquidity", "lend", "supply", "liquidateBorrow", "staking"],
+    "withdraw":["burn", "withdraw", "redeem", "unstake","reward", "remove_liquidity", "collectfee"],
+    "none":["admin"]
+}
